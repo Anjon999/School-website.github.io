@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> 
 <html> 
 <head> 
-<title>::SAHJANAND VIDHYALAY,RAJKOT ::</title> 
+<title>::Inter-Community School Dhaka ::</title> 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
 <link  rel="stylesheet" href="style.css" type="text/css"> 
  <link href="images/title.gif" rel="shortcut icon" type="image/x-icon"> </head> 
@@ -144,7 +144,7 @@
           <td colspan="2" valign="top" height="2"></td> 
         </tr><tr><td colspan="2" height="20" valign="top">		     <table width="100%"  border="0" cellspacing="1" cellpadding="1" background="images/bottom.gif">
 <tr> 
-    <td height="26" align="center" valign="bottom"><div align="center">&copy; SAHJANAND VIDHAYALAY,RAJKOT </div></td>
+    <td height="26" align="center" valign="bottom"><div align="center">&copy; Inter-Community School Dhaka </div></td>
 	</tr> 
 </table> 
 <div align="center"></div> 
