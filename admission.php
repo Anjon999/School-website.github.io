@@ -156,7 +156,7 @@
         <tr> 
           <td colspan="2" valign="top" height="2"></td> 
         </tr><tr><td colspan="2" height="20" valign="top">		     <table width="100%"  border="0" cellspacing="1" cellpadding="1" background="images/bottom.gif">
-<tr> <td height="26" align="center" valign="bottom"><div align="center">&copy; <?php echo date("Y");?>Sahjanand Vidhyalay,Rajkot </div></td>
+<tr> <td height="26" align="center" valign="bottom"><div align="center">&copy; <?php echo date("Y");?>Inter-Community School Dhaka </div></td>
 
 	</tr> 
 </table> 
